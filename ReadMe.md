@@ -1,9 +1,9 @@
 # Kama(Sutra) ♋ Git Commit Msg
 
 ## The reasons for these conventions:
-- 🔥 spice up you commit messages
+- 🔥 spice up your commit messages
 - ⚡ less words in your commit history, more emojis
-- 📃 automatic generating of the changelog
+- 📃 automatic generation of the changelog
 - 🧭 simple navigation through git history (e.g. ignoring style changes)
 
 ## Format of the commit message:
